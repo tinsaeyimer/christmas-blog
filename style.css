@@ -13,3 +13,7 @@ nav{
 h1 {
     text-align: center;
 }
+
+.navlink :active {
+    text-shadow: 2px brown;
+}
